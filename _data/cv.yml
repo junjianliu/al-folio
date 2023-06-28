@@ -2,96 +2,63 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Junjian Liu
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: PhD in Computational Biology and Bioinformatics
+      institution: University of Southern California
+      year: 2026
+    - title:  M.S. in Biostatistics
+      institution: University of North Carolina at Chapel Hill
+      year: 2021
+    - title:  B.Ec. in Pharmacoeconomics
+      institution: China Pharmaceutical University
+      year: 2019
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Ph.D. Student
+      institution: Edge Lab, USC
+      year: Jan 2022 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Improving statistical accuracy of comparisons of genetic and phenotypic differentiation
+
+    - title: Graduate Researcher
+      institution: Department of Biostatistics, UNC-CH
+      year: Aug 2020 - Mar 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Developed computational methods for finding hierarchical consistent cell-type-specific markers genes for cell deconvolution, combined with multiple-source rank aggregation and mRNA abundance adjustment
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Research Assistant
+      institution: Cecil G. Sheps Center for Health Services Research, UNC-CH
+      year: Dec 2020 - May 2021
       description:
+        - Determined gene-drug interactions and potential pharmaceutical risk for nursing home residents
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title:  Research Assistant
+      institution: MOE Key Lab of Contemporary Anthropology, Fudan University
+      year: Feb - May 2019
+      description:
+        - Supported network analysis by constructing genotype dataset of modern Asian and Austronesian populations
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title:  Undergraduate Researcher
+      institution: China Pharmaceutical University & Fudan University
+      year: Sep 2018 - May 2019
+      description:
+        -  Investigated PPARγ polymorphism and nutrition intake to evaluate type 2 diabetes risk for target populations
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2021
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - USC Provost Fellowship, 2021
+    - year: 2018
       items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - CPU Outstanding Student Scholarship
+    - year: 2016
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - CPU Outstanding Student Scholarship
