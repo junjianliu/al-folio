@@ -1,30 +1,10 @@
 ---
 layout: post
-title:  a post with formatting and links
-date:   2015-03-15 16:40:16
-description: march & april, looking forward to summer
+title:  Error rates in QST vs. FST comparisons depend on genetic architecture Evolution 2023, Albuquerque, NM
+date:   2023
+description: 
 tags: formatting links
 categories: sample-posts
 ---
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
 
-#### Hipster list
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
-<hr>
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-<blockquote>
-    We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-    —Anais Nin
-</blockquote>
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+Comparisons of genetic and phenotypic differentiation are important for understanding the action of selection in evolutionary process. Researchers have used QST-FST approaches to compare the amount of trait differentiation among populations on one or more traits (measured by the statistic QST) with differentiation on genome-wide genetic variants (measured by FST). Under neutrality, FST and QST should be approximately equal in expectation, so QST much larger than FST is consistent with local adaptation, and QST much smaller than FST is consistent with stabilizing selection. Investigators have differed in their definitions of genome-wide FST (particularly regarding “ratio of averages” vs. “average of ratios” versions of FST) and in their definitions of the variance components in QST. Comparing incompatible estimators could produce inflated false positive rate as high as 20% when the nominal threshold is 5%. Further, the right choice of comparison distribution depends on genetic architecture. On this topic, I ran coalescent simulations to provide a guide to making QST-FST comparisons that are theoretically coherent and empirically conservative.
